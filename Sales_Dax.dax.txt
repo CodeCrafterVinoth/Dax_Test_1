@@ -1,0 +1,1 @@
+TotalSales = SUM(Sales[Amount])
